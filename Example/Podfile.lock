@@ -1,0 +1,16 @@
+PODS:
+  - SizeNFit (0.1.0)
+
+DEPENDENCIES:
+  - SizeNFit (from `/Users/apple/Documents/ExternalLibraries/Frame Work/`)
+
+EXTERNAL SOURCES:
+  SizeNFit:
+    :path: "/Users/apple/Documents/ExternalLibraries/Frame Work/"
+
+SPEC CHECKSUMS:
+  SizeNFit: f2af93c287541a89000378ebd5db6cb837e1fa97
+
+PODFILE CHECKSUM: 85da835f2aa48d3aa2ca50e35af75393a3724ef1
+
+COCOAPODS: 1.5.3

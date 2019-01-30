@@ -1,0 +1,6 @@
+framework module SizeNFit {
+  umbrella header "SizeNFit-umbrella.h"
+
+  export *
+  module * { export * }
+}

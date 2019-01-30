@@ -1,0 +1,26 @@
+{
+  "name": "SizeNFit",
+  "version": "0.1.0",
+  "summary": "demo pod for the sizenfit widget",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ramprasath07/snfdemopod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ca47ea30b9c9f0d56a69886aac6fbb47402688e5": "madhu.mani@sizenfit.com"
+  },
+  "source": {
+    "git": "https://github.com/ramprasath07/snfdemopod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "vendored_frameworks": "SizeNFit.framework",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}
