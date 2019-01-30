@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18B5E5B92201AED000BC4BA4 /* SizeNFit.framework.zip in Resources */ = {isa = PBXBuildFile; fileRef = 18B5E5B82201AED000BC4BA4 /* SizeNFit.framework.zip */; };
-		18B5E5BB2201C10100BC4BA4 /* SizeNFit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18B5E5BA2201C10100BC4BA4 /* SizeNFit.framework */; };
+		18B5E5BD2201C2D400BC4BA4 /* SizeNFit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18B5E5BC2201C2D400BC4BA4 /* SizeNFit.framework */; };
 		69419A5896D9533CA6CC549F6A43A4E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
 		7FCC4263F4927D38C3567F574D353D1B /* Pods-SizeNFit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 821B0B30F90AB61058904CCA0E2CA0A7 /* Pods-SizeNFit_Tests-dummy.m */; };
 		B86C6F8AD8713F9A505BD62027FE260F /* Pods-SizeNFit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B3604E2D1593FD0A39DC8C6214570DE4 /* Pods-SizeNFit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		18B5E5B82201AED000BC4BA4 /* SizeNFit.framework.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = SizeNFit.framework.zip; path = ../../SizeNFit/Classes/SizeNFit.framework.zip; sourceTree = "<group>"; };
-		18B5E5BA2201C10100BC4BA4 /* SizeNFit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SizeNFit.framework; path = ../../SizeNFit.framework; sourceTree = "<group>"; };
+		18B5E5BC2201C2D400BC4BA4 /* SizeNFit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SizeNFit.framework; path = ../../SizeNFit/Classes/SizeNFit.framework; sourceTree = "<group>"; };
 		2C88F978FA575434A9B5CA9307BD6487 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E91C00911B30D69ECDDF0ACD03596C7 /* Pods-SizeNFit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SizeNFit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		513038B59D51A6E0A8221BBB8D7BF0A4 /* Pods-SizeNFit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SizeNFit_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18B5E5BB2201C10100BC4BA4 /* SizeNFit.framework in Frameworks */,
+				18B5E5BD2201C2D400BC4BA4 /* SizeNFit.framework in Frameworks */,
 				69419A5896D9533CA6CC549F6A43A4E4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -83,6 +83,7 @@
 		A219B19A922D92D388D98C7F43ED7B1A /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
+				18B5E5BC2201C2D400BC4BA4 /* SizeNFit.framework */,
 				18B5E5B82201AED000BC4BA4 /* SizeNFit.framework.zip */,
 			);
 			name = "Development Pods";
@@ -91,7 +92,6 @@
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				18B5E5BA2201C10100BC4BA4 /* SizeNFit.framework */,
 				44D5347904CF754D6785B84253F2574A /* iOS */,
 			);
 			name = Frameworks;
