@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SizeNFit'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'sizenfit widget cocoapod'
   s.swift_version    =  '4.2'
 
@@ -41,4 +41,9 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+
+use_frameworks!
+target 'SizeNFit_Tests' do
+pod 'SizeNFit', :path => '/Users/apple/Documents/ExternalLibraries/Frame Work/'
+
 end
