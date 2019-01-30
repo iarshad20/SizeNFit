@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SizeNFit'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'sizenfit widget cocoapod'
   s.swift_version    =  '4.2'
 
@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.vendored_frameworks = 'SizeNFit.framework'
+
 
   s.source_files = 'SizeNFit/Classes/**/*'
   
