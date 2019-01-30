@@ -34,10 +34,10 @@ TODO: Add long description of the pod here.
 
 #s.source_files = 'SizeNFit/Classes/**/*'
   
-   s.resource_bundles = {
-     'SizeNFit' => ['SizeNFit/SizeNFit.Framework']
-   }
-
+# s.resource_bundles = {
+#   'SizeNFit' => ['SizeNFit/SizeNFit.Framework']
+# }
+s.vendored_frameworks = 'SizeNFit/SizeNFit.Framework'
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
