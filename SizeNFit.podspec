@@ -29,10 +29,13 @@ TODO: Add long description of the pod here.
   s.author           = { '03fcc3280969306e0e0da043280c14ddd36bb52c' => 'madhu.mani@sizenfit.com' }
   s.source           = { :git => 'https://github.com/ramprasath07/SizeNFit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.vendored_frameworks = 'SizeNFit.framework'
+
+
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'SizeNFit/Classes/**/*'
+  s.source_files = 'SizeNFit/Classes/.framework'
   
   # s.resource_bundles = {
   #   'SizeNFit' => ['SizeNFit/Assets/*.png']
