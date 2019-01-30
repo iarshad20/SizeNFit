@@ -32,9 +32,6 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.vendored_frameworks = 'SizeNFit.framework'
-
-
   s.source_files = 'SizeNFit/Classes/**/*'
   
   # s.resource_bundles = {
