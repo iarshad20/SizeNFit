@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '03fcc3280969306e0e0da043280c14ddd36bb52c' => 'madhu.mani@sizenfit.com' }
-  s.source           = { :git => 'https://github.com/sizenfit/SizeNFit.git', :tag => s.version.to_s }
+  s.source           = { :git => '69fdc16ef70da76eba9c13d3bf862806ec1161cf', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
