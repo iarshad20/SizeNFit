@@ -44,8 +44,5 @@ TODO: Add long description of the pod here.
    s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 
-use_frameworks!
-target 'SizeNFit_Tests' do
-pod 'SizeNFit', :path => '/Users/apple/Documents/ExternalLibraries/Frame Work/'
 
 end
