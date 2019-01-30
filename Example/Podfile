@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SizeNFit_Tests' do
+  pod 'SizeNFit', :path => '../'
+  
+  
+end
