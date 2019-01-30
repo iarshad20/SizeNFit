@@ -32,11 +32,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'SizeNFit/Classes/**/*'
+#s.source_files = 'SizeNFit/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'SizeNFit' => ['SizeNFit/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'SizeNFit' => ['SizeNFit/SizeNFit.Framework']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit', 'MapKit'
