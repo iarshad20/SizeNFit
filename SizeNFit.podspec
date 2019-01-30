@@ -32,6 +32,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
+  s.vendored_frameworks = 'SizeNFit.framework'
+
+
   s.source_files = 'SizeNFit/Classes/**/*'
   
   # s.resource_bundles = {
@@ -39,7 +42,7 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-   s.frameworks = 'UIKit', 'MapKit','SizeNFit'
+   s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 
 
