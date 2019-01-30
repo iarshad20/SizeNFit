@@ -38,7 +38,7 @@ TODO: Add long description of the pod here.
 #   'SizeNFit' => ['SizeNFit/SizeNFit.Framework']
 # }
 
-s.ios.vendored_frameworks = 'SizeNFit.Framework'
+  s.vendored_frameworks = 'Frameworks/SizeNFit.framework'
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit', 'MapKit'
@@ -46,3 +46,5 @@ s.ios.vendored_frameworks = 'SizeNFit.Framework'
 
 
 end
+
+
