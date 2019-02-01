@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		181B882622046CF500A63D6F /* SizeNFit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 181B882522046CF500A63D6F /* SizeNFit.framework */; };
+		181B88282204759E00A63D6F /* SizeNFit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 181B88272204759E00A63D6F /* SizeNFit.framework */; };
 		69419A5896D9533CA6CC549F6A43A4E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
 		7FCC4263F4927D38C3567F574D353D1B /* Pods-SizeNFit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 821B0B30F90AB61058904CCA0E2CA0A7 /* Pods-SizeNFit_Tests-dummy.m */; };
 		B86C6F8AD8713F9A505BD62027FE260F /* Pods-SizeNFit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B3604E2D1593FD0A39DC8C6214570DE4 /* Pods-SizeNFit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		181B882522046CF500A63D6F /* SizeNFit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SizeNFit.framework; path = ../../SizeNFit/Classes/SizeNFit.framework; sourceTree = "<group>"; };
+		181B88272204759E00A63D6F /* SizeNFit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SizeNFit.framework; path = ../../SizeNFit/Classes/SizeNFit.framework; sourceTree = "<group>"; };
 		2C88F978FA575434A9B5CA9307BD6487 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E91C00911B30D69ECDDF0ACD03596C7 /* Pods-SizeNFit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SizeNFit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		513038B59D51A6E0A8221BBB8D7BF0A4 /* Pods-SizeNFit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SizeNFit_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -35,7 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				181B882622046CF500A63D6F /* SizeNFit.framework in Frameworks */,
+				181B88282204759E00A63D6F /* SizeNFit.framework in Frameworks */,
 				69419A5896D9533CA6CC549F6A43A4E4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -81,7 +81,7 @@
 		A219B19A922D92D388D98C7F43ED7B1A /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				181B882522046CF500A63D6F /* SizeNFit.framework */,
+				181B88272204759E00A63D6F /* SizeNFit.framework */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -154,6 +154,7 @@
 				LastUpgradeCheck = 0930;
 				TargetAttributes = {
 					2E4CE97B93AC7E8F2035FB49DB2B8DCA = {
+						DevelopmentTeam = 4G3X53UT8J;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -210,7 +211,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4G3X53UT8J;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -308,7 +309,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4G3X53UT8J;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
