@@ -134,7 +134,7 @@
 						CreatedOnToolsVersion = 6.3.1;
 						DevelopmentTeam = 4G3X53UT8J;
 						LastSwiftMigration = 0900;
-						TestTargetID = 607FACCF1AFB9204008FA782;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -328,6 +328,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1FBEA4BE19C9B62BD312C8B6 /* Pods-SizeNFit_Tests.debug.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4G3X53UT8J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -341,9 +343,9 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SizeNFit_Example.app/SizeNFit_Example";
 			};
 			name = Debug;
 		};
@@ -351,6 +353,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0B1FB8491CD8C032311BE48F /* Pods-SizeNFit_Tests.release.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4G3X53UT8J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -360,9 +364,9 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SizeNFit_Example.app/SizeNFit_Example";
 			};
 			name = Release;
 		};
