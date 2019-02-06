@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ZdAqFHrM054nciBeGfwENMom5XA=
+		TrCsPY0fl/JehsEqotmo8ovBdqg=
 		</data>
 		<key>BodyShapeViewController.nib/objects-11.0+.nib</key>
 		<data>
-		7pVFzowogJMwLeFlo+8zm1IgG18=
+		O1i+xA5DCuwvqRTh4Cz81R/ZOsY=
 		</data>
 		<key>BodyShapeViewController.nib/runtime.nib</key>
 		<data>
-		7jvil8oxZNz0WpwJBBBrdwHgwWM=
+		q1O7pDksvBv7Be7Rfe8kcIVSm+w=
 		</data>
 		<key>Headers/SizeNFit-Swift.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>HeightWeightCalculationViewController.nib/objects-11.0+.nib</key>
 		<data>
-		ibS2VlHQQkCUh0zFicwgjqJvkD0=
+		zKRrZDS7EbVrlAo+Jx95JMngrlo=
 		</data>
 		<key>HeightWeightCalculationViewController.nib/runtime.nib</key>
 		<data>
-		BdEQIcO56kikCXtE152xhB8pwkY=
+		U3eODw+T/yYg65ha7dJweo/PO7Y=
 		</data>
 		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>MatchResultViewController.nib/objects-11.0+.nib</key>
 		<data>
-		ra6hOXbS0r2mt8cEBBU/bSk/UyM=
+		eoJ/GNN+w0GNCkwYcxg9SgItN6U=
 		</data>
 		<key>MatchResultViewController.nib/runtime.nib</key>
 		<data>
-		XFFaaZF5dvWVsIT6Gza58bGLsn0=
+		Bqx/0cEmLtANO1+FWdNKEmjDm5w=
 		</data>
 		<key>Modules/SizeNFit.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -98,63 +98,63 @@
 		</data>
 		<key>ResultFooterView.nib/objects-11.0+.nib</key>
 		<data>
-		EnhLETEuWul2FHAIaMcFmf8+IZE=
+		DHNaA8Alw2ybxCz7gZ2ZHGp617g=
 		</data>
 		<key>ResultFooterView.nib/runtime.nib</key>
 		<data>
-		Rzc8N45K1/T07B1Rl5bMaklF6ro=
+		qcu/0BNV7BEbCCY4i5Vw8RnsbVE=
 		</data>
 		<key>ResultHeaderView.nib/objects-11.0+.nib</key>
 		<data>
-		ZikRBMKK/NtOoaJfZUDuIaM8+Wk=
+		9Y3d3TsE0NOssb4RyKvqxw9AFbI=
 		</data>
 		<key>ResultHeaderView.nib/runtime.nib</key>
 		<data>
-		DhXLoiRRlxYZmVzgC1QND3j/rQ8=
+		G2pSVBqJPxtzDad/INcyoO9vuSg=
 		</data>
 		<key>ResultTableViewCell.nib/objects-11.0+.nib</key>
 		<data>
-		LGoXa6wDaaP1uSfd3uUwFJIFeGM=
+		l3DHpHBzipVQL12L5EoCXtYKjXE=
 		</data>
 		<key>ResultTableViewCell.nib/runtime.nib</key>
 		<data>
-		SO7V7jAhFd4mIwR65kxLPZcBeng=
+		GDgB8G9tt++mEzSUmXj2wtQ1VZ0=
 		</data>
 		<key>ResultViewController.nib/objects-11.0+.nib</key>
 		<data>
-		Ld5TJU5HTcg7Sojwwi8s5RUxhP8=
+		eB6YBNhwEZr1tDjJlJ35jXKjkE4=
 		</data>
 		<key>ResultViewController.nib/runtime.nib</key>
 		<data>
-		n0ocGXOMseQCmgViilI9DWPy/Q4=
+		Ek5M/Vsk6HBSSx8o8U1mZraf0vs=
 		</data>
 		<key>SelectBrandSIzeViewController.nib/objects-11.0+.nib</key>
 		<data>
-		WIQovGkngZwJWnwxIvAxZuh/Blg=
+		7z0eBr3nync018dzehrie07iKqI=
 		</data>
 		<key>SelectBrandSIzeViewController.nib/runtime.nib</key>
 		<data>
-		zNtBVC7ZV9pH2ouwYU2YQBOfV5c=
+		ACguDwe9+bWwnv9YMn8KnpzWwNE=
 		</data>
 		<key>SelectBrandViewController.nib/objects-11.0+.nib</key>
 		<data>
-		ETlntEyQ2XJnKNk8k+f/U9wB5po=
+		itqze/nL/8ssZMmBrAHG5LV1RcI=
 		</data>
 		<key>SelectBrandViewController.nib/runtime.nib</key>
 		<data>
-		yxQO0Irj0dP5Wf1s+hvgkZ+B2I4=
+		zfVf2Yyu2YmziUAV4XjORaAW164=
 		</data>
 		<key>SizeCollectionViewCell.nib</key>
 		<data>
-		CzfRhjb8ZEivr4mfS9W6RMIBAuw=
+		xlWhksNp1vLRn+lqDPOJjXzbLh0=
 		</data>
 		<key>StyleCollectionViewCell.nib</key>
 		<data>
-		J6xYU+hl9zwYjjw9xUSRxsobhVk=
+		hzetD/Ff1XjBsnFTEnCKoBGeH5g=
 		</data>
 		<key>WaitingViewController.nib</key>
 		<data>
-		Aa59C3+p6CdvxOKvLz5Phy8zd8k=
+		Pv+hajhGmgpwN4OI7ZjlRLK0/oQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -163,33 +163,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZdAqFHrM054nciBeGfwENMom5XA=
+			TrCsPY0fl/JehsEqotmo8ovBdqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			NkIe+ZAvrEXERMp35MZpRhv0IOl7LCJkw6HY0DoxeDU=
+			wXD7d0GVG4toqm9ySls+p/15kGm2NxI6bFL2qs2+U6o=
 			</data>
 		</dict>
 		<key>BodyShapeViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7pVFzowogJMwLeFlo+8zm1IgG18=
+			O1i+xA5DCuwvqRTh4Cz81R/ZOsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lUmM3jX9F2Yc8EKR94ep/OM2+i+PMkkyFjQI6EKUJ5w=
+			pttQMVRs/xEhrcPrEXMDimKpFZTX25zWPdZdolcgYHY=
 			</data>
 		</dict>
 		<key>BodyShapeViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7jvil8oxZNz0WpwJBBBrdwHgwWM=
+			q1O7pDksvBv7Be7Rfe8kcIVSm+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			8vW7XznT5K9mjFYRM7+w690NfaM7VLgihHK6lZ/Yme8=
+			2EEwLlLAwomctDf16ZX7tqw4ec1iR3Rwu8ZPRc7s4Jc=
 			</data>
 		</dict>
 		<key>Headers/SizeNFit-Swift.h</key>
@@ -218,22 +218,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ibS2VlHQQkCUh0zFicwgjqJvkD0=
+			zKRrZDS7EbVrlAo+Jx95JMngrlo=
 			</data>
 			<key>hash2</key>
 			<data>
-			TfCEOubS8hy0Eh2VSmnZFDLPfGWQ1oo2og+uA55UMfw=
+			n3M436kU0vXGvWC40ho1XEzxb8/+bQtIpUuMGv+9Cn4=
 			</data>
 		</dict>
 		<key>HeightWeightCalculationViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BdEQIcO56kikCXtE152xhB8pwkY=
+			U3eODw+T/yYg65ha7dJweo/PO7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			iHh5mYcOBP95sKgbJCtePvK3+Ug6f1qg2fAo7r73YK0=
+			BLHTtQ9qzoemRs67IDALwucrEVRjDm804ggna4V4Jn8=
 			</data>
 		</dict>
 		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
@@ -328,22 +328,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ra6hOXbS0r2mt8cEBBU/bSk/UyM=
+			eoJ/GNN+w0GNCkwYcxg9SgItN6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			k12G7FVx1zGCLrJ6NPqsz7/3gNmonlqhC1CstsjVfJk=
+			MaFBgwmpnnohqqfEk6ExpqJ86dU8c1IXlQ0rQfGzoSU=
 			</data>
 		</dict>
 		<key>MatchResultViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XFFaaZF5dvWVsIT6Gza58bGLsn0=
+			Bqx/0cEmLtANO1+FWdNKEmjDm5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			NQ3Q+3GbPfvqu6EJgLbwpy3FARDU+vFfp6GEO+lIhbY=
+			HfMmBEIZhqPtqjvnjtmjNc9iTXoOnwWUjJUbJsihUQ4=
 			</data>
 		</dict>
 		<key>Modules/SizeNFit.swiftmodule/arm.swiftdoc</key>
@@ -405,165 +405,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EnhLETEuWul2FHAIaMcFmf8+IZE=
+			DHNaA8Alw2ybxCz7gZ2ZHGp617g=
 			</data>
 			<key>hash2</key>
 			<data>
-			5Y4oxVm3LTP9M2dpufjYROrFi5rHXCfdTAhVuRhLrT8=
+			XiXsuyBTYZS0I0eAITUWqp17DP/lHM/mBcn0ccGQ2Mk=
 			</data>
 		</dict>
 		<key>ResultFooterView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rzc8N45K1/T07B1Rl5bMaklF6ro=
+			qcu/0BNV7BEbCCY4i5Vw8RnsbVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			NWRU+tAb5R3CyMXG+nmDKCDARtrjwQNXiCMeC9/jEeo=
+			hLBnreSLyXeHSAVIkfB06PAwpUXnqa2khpUXjFqUWCg=
 			</data>
 		</dict>
 		<key>ResultHeaderView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZikRBMKK/NtOoaJfZUDuIaM8+Wk=
+			9Y3d3TsE0NOssb4RyKvqxw9AFbI=
 			</data>
 			<key>hash2</key>
 			<data>
-			cGZ4cBDcOxqJOSsbsAluU8zpelgVbEzAjZq9pbzFko8=
+			Cc+uRVoOGZN4tDdKasHdAPHqWyjti3qFVBl5AXaUeHg=
 			</data>
 		</dict>
 		<key>ResultHeaderView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DhXLoiRRlxYZmVzgC1QND3j/rQ8=
+			G2pSVBqJPxtzDad/INcyoO9vuSg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WBqycukPUU/z3IsZ8gjAgNQ57HTuZXVVS+2CWiwY+wQ=
+			tdRS6DUQgXE7YyKKkFEJymTWpDdpAM5N+JLbzsFkwQU=
 			</data>
 		</dict>
 		<key>ResultTableViewCell.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LGoXa6wDaaP1uSfd3uUwFJIFeGM=
+			l3DHpHBzipVQL12L5EoCXtYKjXE=
 			</data>
 			<key>hash2</key>
 			<data>
-			brpMegnQk3qe9eBimh7a6eLefvohQCquXUQ+Jpb1WIE=
+			vcFWbv2WEyZPRDHE4rAGJj1MsJ8d2q1VSTKNTV/TKt8=
 			</data>
 		</dict>
 		<key>ResultTableViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SO7V7jAhFd4mIwR65kxLPZcBeng=
+			GDgB8G9tt++mEzSUmXj2wtQ1VZ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			hoEDDbSssFISm9JRNy2yJ01ySqf3HIXUzV+MVUg/b9w=
+			p7dqBa26RL24orzTpn6usQV0K25wF84C//gijDWAQhg=
 			</data>
 		</dict>
 		<key>ResultViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ld5TJU5HTcg7Sojwwi8s5RUxhP8=
+			eB6YBNhwEZr1tDjJlJ35jXKjkE4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FTSNEdT+dvAjeDX5J7aqqIOLgYQ9yW7fqbn+RE1gRi4=
+			Ra3sTq5I0aBPf2Kt4jNuTveXrPPfelEWOPcMeS0olFA=
 			</data>
 		</dict>
 		<key>ResultViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n0ocGXOMseQCmgViilI9DWPy/Q4=
+			Ek5M/Vsk6HBSSx8o8U1mZraf0vs=
 			</data>
 			<key>hash2</key>
 			<data>
-			b+OdgfQjLUdyEs1PfNs5obDG8WGfRL00sXLkX3bfK3g=
+			/VfoE3PHmC7xkcEwDcnP4HQSMAeu2PVslCAVVAgOupk=
 			</data>
 		</dict>
 		<key>SelectBrandSIzeViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WIQovGkngZwJWnwxIvAxZuh/Blg=
+			7z0eBr3nync018dzehrie07iKqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			itBDRjbREOGjmo4zRnKp0C74gnBdDZL2eCLZj2N0/Qc=
+			2lhKDdl/RjHnmSpFdi/7zvjyCaGJZS2JDsent9OxIa8=
 			</data>
 		</dict>
 		<key>SelectBrandSIzeViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zNtBVC7ZV9pH2ouwYU2YQBOfV5c=
+			ACguDwe9+bWwnv9YMn8KnpzWwNE=
 			</data>
 			<key>hash2</key>
 			<data>
-			JfPBlytVLvg5cwCL48OmwO/+SOXEkBXSwXGYRRrJ1iw=
+			4g86iHKELmWO0knaTQk2Pwoimj8R9jVTFDdi/kdoXNQ=
 			</data>
 		</dict>
 		<key>SelectBrandViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ETlntEyQ2XJnKNk8k+f/U9wB5po=
+			itqze/nL/8ssZMmBrAHG5LV1RcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			8Hr16Qnk+YFI0viWdrbF67uwEoA7rAkc6OeT3hWB7yU=
+			VV+9EpOyeGvW9vKD85uhpejm5OFcdvUmpp4IwWIyvcI=
 			</data>
 		</dict>
 		<key>SelectBrandViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yxQO0Irj0dP5Wf1s+hvgkZ+B2I4=
+			zfVf2Yyu2YmziUAV4XjORaAW164=
 			</data>
 			<key>hash2</key>
 			<data>
-			kXeEKmdvx62/lGMSqmdmBnskbAY8+SkihO8xbmRn8r4=
+			W5210/KFTvtDkjMWugFDP+EEAWAn/qyr1zlDsOQNu30=
 			</data>
 		</dict>
 		<key>SizeCollectionViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CzfRhjb8ZEivr4mfS9W6RMIBAuw=
+			xlWhksNp1vLRn+lqDPOJjXzbLh0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QNC1L8OdHZxN0dkvIYLY8yXNEtQ4fXHVtPvbvvIu6OI=
+			eTDvtiU0vzZZM0POKwdeLYUuxI2+Ak4N3PFkhhiP/yM=
 			</data>
 		</dict>
 		<key>StyleCollectionViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J6xYU+hl9zwYjjw9xUSRxsobhVk=
+			hzetD/Ff1XjBsnFTEnCKoBGeH5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			eNKGxUepoysVUzrJFZxoJWAZ3wdxXSM557Zf5vnu+bk=
+			+QQfw82ZZ2wKXqICnM7PA3b2I1ktlUm2hiOuVsrev/M=
 			</data>
 		</dict>
 		<key>WaitingViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aa59C3+p6CdvxOKvLz5Phy8zd8k=
+			Pv+hajhGmgpwN4OI7ZjlRLK0/oQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZoVcTU8UMqv5W9tTHQw6bUTywanTXxo1YaWLB6A0SMo=
+			5qUSAZpJfZTRpdLcdIfqhb8DgYR3TrKVu2EcCCCXgJQ=
 			</data>
 		</dict>
 	</dict>
