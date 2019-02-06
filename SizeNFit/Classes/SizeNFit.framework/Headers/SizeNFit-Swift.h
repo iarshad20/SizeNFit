@@ -859,6 +859,9 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nonnull bran
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nonnull styleArrayData;)
 + (NSString * _Nonnull)styleArrayData SWIFT_WARN_UNUSED_RESULT;
 + (void)setStyleArrayData:(NSString * _Nonnull)value;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class) NSInteger selectedRowForBestFit;)
++ (NSInteger)selectedRowForBestFit SWIFT_WARN_UNUSED_RESULT;
++ (void)setSelectedRowForBestFit:(NSInteger)value;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSArray<NSDictionary<NSString *, id> *> * _Nonnull techSpecDetail;)
 + (NSArray<NSDictionary<NSString *, id> *> * _Nonnull)techSpecDetail SWIFT_WARN_UNUSED_RESULT;
 + (void)setTechSpecDetail:(NSArray<NSDictionary<NSString *, id> *> * _Nonnull)value;
