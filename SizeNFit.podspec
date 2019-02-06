@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SizeNFit'
-  s.version          = '0.14.0'
+  s.version          = '0.15.0'
   s.summary          = 'sizenfit widget cocoapod'
   s.swift_version    =  '4.2'
 
