@@ -15,7 +15,6 @@
 			dependencies = (
 			);
 			name = SizeNFit;
-			productName = SizeNFit;
 		};
 /* End PBXAggregateTarget section */
 
@@ -39,15 +38,16 @@
 		25A43E53C738B563BFEA0FD46CE853AC /* Pods-SizeNFit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SizeNFit_Tests-umbrella.h"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3A926A7C870D3BA847CCAA45442B5390 /* Pods-SizeNFit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SizeNFit_Tests.modulemap"; sourceTree = "<group>"; };
-		3BF6585A87AD263F4CA0C7DD3CFF9025 /* SizeNFit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SizeNFit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3BF6585A87AD263F4CA0C7DD3CFF9025 /* SizeNFit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SizeNFit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5FA2FA8DFFD1AE05E6EA8580DBC78BCB /* Pods-SizeNFit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SizeNFit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		601DA88292A2C6D24D78502E7D1C208F /* Pods-SizeNFit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SizeNFit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		69885AFE391356E35D9EAAE8F348C028 /* Pods-SizeNFit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SizeNFit_Tests-dummy.m"; sourceTree = "<group>"; };
 		6B0BC84D14A096D511892724687985A6 /* Pods-SizeNFit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SizeNFit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		825D14649F186B42DB65CE828B61E818 /* Pods-SizeNFit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SizeNFit_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A1304E0BBDDCCB37A5CAB5588044DDAF /* Pods_SizeNFit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SizeNFit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A1304E0BBDDCCB37A5CAB5588044DDAF /* Pods_SizeNFit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SizeNFit_Tests.framework; path = "Pods-SizeNFit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE6E32C7ECD9E25B8CA6E87BD216E9BB /* Pods-SizeNFit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SizeNFit_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		EF72BDB5B585A74DEB58AC9F367031F8 /* SizeNFit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SizeNFit.framework; sourceTree = "<group>"; };
 		F428935F5DA59EA7944FB5296FC89843 /* Pods-SizeNFit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SizeNFit_Tests-Info.plist"; sourceTree = "<group>"; };
 		F5D853ADDE43E96FB3928C4AC6DA2D17 /* SizeNFit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SizeNFit.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -144,6 +144,7 @@
 		CDF19054BD1B4E11AE3275DC421B6ECA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				EF72BDB5B585A74DEB58AC9F367031F8 /* SizeNFit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -311,7 +312,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
