@@ -7,10 +7,10 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'SizeNFit'
-  s.version          = '0.18.0'
-  s.summary          = 'sizenfit widget cocoapod'
-  s.swift_version    =  '4.2'
+s.name             = 'SizeNFit'
+s.version          = '2.0.0'
+s.summary          = 'sizenfit widget cocoapod'
+s.swift_version    =  '5.0'
 
 
 # This description is used to generate tags and improve search results.
@@ -19,30 +19,30 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
+s.description      = <<-DESC
 TODO: Add long description of the pod here.
-                       DESC
+DESC
 
-  s.homepage         = 'https://github.com/sizenfit/SizeNFit'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '03fcc3280969306e0e0da043280c14ddd36bb52c' => 'madhu.mani@sizenfit.com' }
-  s.source           = { :git => 'https://github.com/sizenfit/SizeNFit.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+s.homepage         = 'https://github.com/ramprasath07/SizeNFit'
+# s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+s.license          = { :type => 'MIT', :file => 'LICENSE' }
+s.author           = { '03fcc3280969306e0e0da043280c14ddd36bb52c' => 'madhu.mani@sizenfit.com' }
+s.source           = { :git => 'https://github.com/sizenfit/SizeNFit.git', :tag => s.version.to_s }
+# s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '9.0'
 
 #s.source_files = 'SizeNFit/Classes/**/*'
-  
+
 # s.resource_bundles = {
 #   'SizeNFit' => ['SizeNFit/SizeNFit.Framework']
 # }
 
-  s.vendored_frameworks = 'SizeNFit/Classes/SizeNFit.framework'
+s.vendored_frameworks = 'SizeNFit.framework'
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-   s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+# s.public_header_files = 'Pod/Classes/**/*.h'
+s.frameworks = 'UIKit', 'MapKit'
+# s.dependency 'AFNetworking', '~> 2.3'
 
 
 end

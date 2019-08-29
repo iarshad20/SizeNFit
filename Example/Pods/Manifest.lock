@@ -1,16 +1,16 @@
 PODS:
-  - SizeNFit (0.1.0)
+  - SizeNFit (2.0.0)
 
 DEPENDENCIES:
-  - SizeNFit (from `/Users/apple/Documents/ExternalLibraries/Frame Work/`)
+  - SizeNFit (from `/Users/sanjaythakkar/Documents/WorkApplications/TechProjects/SizeNFitFrameWork/SizeNFit`)
 
 EXTERNAL SOURCES:
   SizeNFit:
-    :path: "/Users/apple/Documents/ExternalLibraries/Frame Work/"
+    :path: "/Users/sanjaythakkar/Documents/WorkApplications/TechProjects/SizeNFitFrameWork/SizeNFit"
 
 SPEC CHECKSUMS:
-  SizeNFit: f2af93c287541a89000378ebd5db6cb837e1fa97
+  SizeNFit: 341cd8b25f185aa7637d2d0d548e8e1935ec8f58
 
-PODFILE CHECKSUM: 85da835f2aa48d3aa2ca50e35af75393a3724ef1
+PODFILE CHECKSUM: 22202aa50bea3853c34ad87ac050ba85919fd962
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.7.2

@@ -1,26 +1,28 @@
 {
   "name": "SizeNFit",
-  "version": "0.1.0",
-  "summary": "demo pod for the sizenfit widget",
+  "version": "2.0.0",
+  "summary": "sizenfit widget cocoapod",
+  "swift_versions": "5.0",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/ramprasath07/snfdemopod",
+  "homepage": "https://github.com/ramprasath07/SizeNFit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "ca47ea30b9c9f0d56a69886aac6fbb47402688e5": "madhu.mani@sizenfit.com"
+    "03fcc3280969306e0e0da043280c14ddd36bb52c": "madhu.mani@sizenfit.com"
   },
   "source": {
-    "git": "https://github.com/ramprasath07/snfdemopod.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/sizenfit/SizeNFit.git",
+    "tag": "2.0.0"
   },
   "platforms": {
-    "ios": "11.0"
+    "ios": "9.0"
   },
   "vendored_frameworks": "SizeNFit.framework",
   "frameworks": [
     "UIKit",
     "MapKit"
-  ]
+  ],
+  "swift_version": "5.0"
 }

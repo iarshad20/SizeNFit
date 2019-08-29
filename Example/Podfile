@@ -1,4 +1,4 @@
 use_frameworks!
 target 'SizeNFit_Tests' do
-    pod 'SizeNFit', :path => '/Users/apple/Documents/ExternalLibraries/Frame Work/'
+    pod 'SizeNFit', :path => '/Users/sanjaythakkar/Documents/WorkApplications/TechProjects/SizeNFitFrameWork/SizeNFit'
 end
